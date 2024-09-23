@@ -1,0 +1,77 @@
+.pagina-inicio{
+
+    background-color: #F5F6FA;
+    min-height: 100vh;
+    
+
+    main{
+
+        padding-top: 80px;
+        padding-left: 70px;
+        
+        ;
+
+        .bloquinhos{
+
+           display: flex;
+           flex-wrap: wrap;
+           gap: 65px;
+           margin-top: 65px;
+        }
+
+        .card{
+
+            text-align: center;
+            border-radius: 12px;
+            background-color: #fff;
+            width: 255px;
+            height: 208px;
+
+            .cores{
+
+                width: 60px;
+                height: 60px;
+                border-radius: 12px;
+                margin-top: 24px;
+
+            }
+
+            h3{
+                margin-top: 18px;
+            }
+
+            p{
+                margin-top: 25px;
+            }
+        }
+
+    }
+
+
+    section{
+
+        background-color: #F5F6FA;
+        color: #F5F6FA;
+    }
+
+    .exs{
+
+        color: #000;
+        text-decoration: none;
+
+        p{
+
+            color: #464343;
+            
+        }
+
+    }
+
+    
+    a{
+
+        text-decoration: none;
+        color: #F5F6FA;
+
+    }
+}
